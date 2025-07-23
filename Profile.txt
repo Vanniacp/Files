@@ -4787,6 +4787,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -9842,6 +9846,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -14897,6 +14905,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -19952,6 +19964,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -25007,6 +25023,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -30062,6 +30082,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -35117,6 +35141,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -40172,6 +40200,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -45227,6 +45259,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -50282,6 +50318,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -55337,6 +55377,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -60392,6 +60436,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -65447,6 +65495,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -70502,6 +70554,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -75557,6 +75613,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -80612,6 +80672,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -85667,6 +85731,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -90722,6 +90790,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -95777,6 +95849,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -100832,6 +100908,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -105887,6 +105967,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -110942,6 +111026,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -115997,6 +116085,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -121052,6 +121144,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -126107,6 +126203,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -131162,6 +131262,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -136217,6 +136321,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -141272,6 +141380,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -146327,6 +146439,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -151382,6 +151498,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -156437,6 +156557,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -161492,6 +161616,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -166547,6 +166675,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -171602,6 +171734,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -176657,6 +176793,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -181712,6 +181852,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -186767,6 +186911,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -191822,6 +191970,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -196877,6 +197029,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -201932,6 +202088,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -206987,6 +207147,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -212042,6 +212206,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -217097,6 +217265,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -222152,6 +222324,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -227207,6 +227383,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -232262,6 +232442,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -237317,6 +237501,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -242372,6 +242560,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -247427,6 +247619,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -252482,6 +252678,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -257537,6 +257737,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -262592,6 +262796,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -267647,6 +267855,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -272702,6 +272914,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -277757,6 +277973,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -282812,6 +283032,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -287867,6 +288091,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -292922,6 +293150,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -297977,6 +298209,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -303032,6 +303268,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -308087,6 +308327,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -313142,6 +313386,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -318197,6 +318445,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -323252,6 +323504,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -328307,6 +328563,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -333362,6 +333622,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -338417,6 +338681,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -343472,6 +343740,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -348527,6 +348799,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -353582,6 +353858,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -358637,6 +358917,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -363692,6 +363976,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -368747,6 +369035,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -373802,6 +374094,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -378857,6 +379153,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -383912,6 +384212,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -388967,6 +389271,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -394182,6 +394490,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -399397,6 +399709,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -404452,6 +404768,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -409507,6 +409827,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -414562,6 +414886,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -419697,6 +420025,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -424832,6 +425164,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -429967,6 +430303,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -435022,6 +435362,10 @@
         {
           "itemId": "K40P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Anniversary2025Offering",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
