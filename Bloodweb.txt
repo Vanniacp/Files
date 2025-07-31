@@ -565,6 +565,18 @@
       "quantity": 1
     },
     {
+      "itemId": "Item_Survivor_VigosFogVial",
+      "quantity": 1
+    },
+    {
+      "itemId": "Item_Survivor_PrototypeFogVial",
+      "quantity": 1
+    },
+    {
+      "itemId": "Item_Survivor_MakeshiftFogVial",
+      "quantity": 1
+    },
+    {
       "itemId": "Addon_Beartrap_001",
       "quantity": 1
     },
@@ -1422,6 +1434,26 @@
     },
     {
       "itemId": "Addon_Hatchet_LeatherLoop",
+      "quantity": 1
+    },
+    {
+      "itemId": "Potent Extract",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_Amplifier",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_SlowRelease",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_LargeVial",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_Accelerant",
       "quantity": 1
     },
     {
