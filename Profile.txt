@@ -4815,6 +4815,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -9898,6 +9930,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -14981,6 +15045,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -20064,6 +20160,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -25147,6 +25275,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -30230,6 +30390,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -35313,6 +35505,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -40396,6 +40620,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -45479,6 +45735,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -50562,6 +50850,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -55645,6 +55965,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -60728,6 +61080,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -65811,6 +66195,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -70894,6 +71310,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -75977,6 +76425,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -81060,6 +81540,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -86143,6 +86655,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -91226,6 +91770,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -96309,6 +96885,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -101392,6 +102000,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -106475,6 +107115,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -111558,6 +112230,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -116641,6 +117345,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -121724,6 +122460,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -126807,6 +127575,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -131890,6 +132690,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -136973,6 +137805,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -142056,6 +142920,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -147139,6 +148035,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -152222,6 +153150,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -157305,6 +158265,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -162388,6 +163380,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -167471,6 +168495,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -172554,6 +173610,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -177637,6 +178725,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -182720,6 +183840,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -187803,6 +188955,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -192886,6 +194070,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -197969,6 +199185,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -203052,6 +204300,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -208135,6 +209415,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -213218,6 +214530,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -218301,6 +219645,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -223384,6 +224760,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -228467,6 +229875,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -233550,6 +234990,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -238633,6 +240105,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -243716,6 +245220,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -248799,6 +250335,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -253882,6 +255450,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -258965,6 +260565,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -264048,6 +265680,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -269131,6 +270795,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -274214,6 +275910,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -279297,6 +281025,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -284380,6 +286140,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -289463,6 +291255,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -294546,6 +296370,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -299629,6 +301485,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -304712,6 +306600,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -309795,6 +311715,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -314878,6 +316830,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -319961,6 +321945,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -325044,6 +327060,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -330127,6 +332175,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -335210,6 +337290,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -340293,6 +342405,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -345376,6 +347520,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -350459,6 +352635,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -355542,6 +357750,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -360625,6 +362865,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -365708,6 +367980,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -370791,6 +373095,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -375874,6 +378210,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -380957,6 +383325,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -386040,6 +388440,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -391123,6 +393555,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -396366,6 +398830,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -401609,6 +404105,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -406692,6 +409220,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -411775,6 +414335,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -416858,6 +419450,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -422021,6 +424645,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -427184,6 +429840,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -432347,6 +435035,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -437430,6 +440150,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -442513,6 +445265,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
@@ -447596,6 +450380,38 @@
         {
           "itemId": "S48P03",
           "quantity": 3
+        },
+        {
+          "itemId": "Item_Survivor_MakeshiftFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_PrototypeFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Item_Survivor_VigosFogVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Potent Extract",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Amplifier",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_SlowRelease",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_LargeVial",
+          "quantity": 50
+        },
+        {
+          "itemId": "Addon_FogVial_Accelerant",
+          "quantity": 50
         }
       ],
       "bloodWebLevel": 50,
