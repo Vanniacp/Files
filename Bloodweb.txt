@@ -2,59 +2,10 @@
   "bloodwebLevelChanged": false,
   "updatedWallets": [],
   "characterName": "",
-  "bloodWebLevel": 50,
-  "prestigeLevel": 10,
+  "bloodWebLevel": 51,
+  "prestigeLevel": 100,
   "bloodWebData": {
-    "paths": [
-      "0_101",
-      "0_102",
-      "0_103",
-      "0_104",
-      "0_105",
-      "0_106",
-      "101_102",
-      "102_103",
-      "103_104",
-      "104_105",
-      "105_106",
-      "106_101",
-      "101_201",
-      "101_202",
-      "102_203",
-      "102_204",
-      "103_205",
-      "103_206",
-      "104_207",
-      "104_208",
-      "105_209",
-      "105_210",
-      "106_211",
-      "106_212",
-      "201_202",
-      "202_203",
-      "203_204",
-      "204_205",
-      "205_206",
-      "206_207",
-      "207_208",
-      "208_209",
-      "209_210",
-      "210_211",
-      "211_212",
-      "212_201",
-      "301_302",
-      "302_303",
-      "303_304",
-      "304_305",
-      "305_306",
-      "306_307",
-      "307_308",
-      "308_309",
-      "309_310",
-      "310_311",
-      "311_312",
-      "312_301"
-    ],
+    "paths": [],
     "ringData": [
       {
         "nodeData": [
@@ -67,32 +18,32 @@
       {
         "nodeData": [
           {
-            "contentId": "Addon_K32_03",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 101,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Harpoon_WantedPoster",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 102,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Rush_PlagueBile",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 103,
             "state": "Available"
           },
           {
-            "contentId": "Item_Camper_K33Turret",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 104,
             "state": "Available"
           },
           {
-            "contentId": "Addon_PhaseWalker_MotherDaughterRing",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 105,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Flashlight_005",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 106,
             "state": "Available"
           }
@@ -101,62 +52,62 @@
       {
         "nodeData": [
           {
-            "contentId": "Item_Camper_Toolbox_Anniversary2022",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 201,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Blinker_012",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 202,
             "state": "Available"
           },
           {
-            "contentId": "Addon_GasBomb_02",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 203,
             "state": "Available"
           },
           {
-            "contentId": "LunacyTicket",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 204,
             "state": "Available"
           },
           {
-            "contentId": "Addon_GasBomb_20b",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 205,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Demogorgon_BarbsGlasses",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 206,
             "state": "Available"
           },
           {
-            "contentId": "Item_Camper_MedKit",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 207,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Hatchet_BegrimedHead",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 208,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_medkit_gauzeroll",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 209,
             "state": "Available"
           },
           {
-            "contentId": "Addon_TheOnryo_09",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 210,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K32_19",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 211,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K31_03",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 212,
             "state": "Available"
           }
@@ -165,92 +116,92 @@
       {
         "nodeData": [
           {
-            "contentId": "ShatteredGlasses",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 301,
             "state": "Available"
           },
           {
-            "contentId": "PaintedRiverRock",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 302,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_TormentMode_IridescentSealofMetatron",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 303,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Hatchet_FlowerBabushka",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 304,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K31_11",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 305,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_medkit_needleandthread",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 306,
             "state": "Available"
           },
           {
-            "contentId": "Jigsawpiece",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 307,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_Lastbreath_AtaxicRespiration",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 308,
             "state": "Available"
           },
           {
-            "contentId": "Item_Camper_Firecracker_Anniversary2019",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 309,
             "state": "Available"
           },
           {
-            "contentId": "CattleTag28",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 310,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_Frenzy_NastyBlade",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 311,
             "state": "Available"
           },
           {
-            "contentId": "Addon_PhaseWalker_DriedCherryBlossom",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 312,
             "state": "Available"
           },
           {
-            "contentId": "Addon_DreamInducer_SheepBlock",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 313,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K33_05",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 314,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_Chainsaw_CarburatorGuide",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 315,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_medkit_selfadherentwrap",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 316,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K25Power_17",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 317,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Harpoon_RicketyChain",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 318,
             "state": "Available"
           }
@@ -259,7 +210,7 @@
       {
         "nodeData": [
           {
-            "contentId": "ADDON_Frenzy_IridescentButton",
+            "contentId": "Item_Camper_K32Emp",
             "nodeId": 401,
             "state": "Available"
           }
@@ -5253,7 +5204,7 @@
       "quantity": 3
     },
     {
-      "itemId": "K41P03",
+      "itemId": "K40P03",
       "quantity": 3
     },
     {
@@ -5265,7 +5216,19 @@
       "quantity": 3
     },
     {
-      "itemId": "K40P03",
+      "itemId": "K41P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "K42P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K42P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "K42P03",
       "quantity": 3
     },
     {
@@ -5350,6 +5313,30 @@
     },
     {
       "itemId": "S49P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S50P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S50P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S50P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S51P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S51P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S51P03",
       "quantity": 3
     },
     {
@@ -5445,86 +5432,6 @@
       "quantity": 1
     },
     {
-      "itemId": "Addon_K39_01",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_02",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_03",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_04",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_05",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_06",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_07",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_08",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_09",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_10",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_11",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_12",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_13",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_14",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_15",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_16",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_17",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_18",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_19",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K39_20",
-      "quantity": 1
-    },
-    {
       "itemId": "Addon_K41_01",
       "quantity": 1
     },
@@ -5605,6 +5512,166 @@
       "quantity": 1
     },
     {
+      "itemId": "Addon_K42_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_20",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K39_20",
+      "quantity": 1
+    },
+    {
       "itemId": "Addon_K40_01",
       "quantity": 1
     },
@@ -5681,15 +5748,15 @@
       "quantity": 1
     },
     {
-      "itemId": "Addon_K40_20",
-      "quantity": 1
-    },
-    {
       "itemId": "Item_Camper_FadedMap",
       "quantity": 1
     },
     {
       "itemId": "Addon_FogVial_DenseFogExtract",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_20",
       "quantity": 1
     }
   ],
